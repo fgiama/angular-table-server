@@ -1,0 +1,14 @@
+C:\Users\fgiama\source\repos\CountriesApi\CountriesApi\bin\Debug\netcoreapp2.1\CountriesApi.deps.json
+C:\Users\fgiama\source\repos\CountriesApi\CountriesApi\bin\Debug\netcoreapp2.1\CountriesApi.runtimeconfig.json
+C:\Users\fgiama\source\repos\CountriesApi\CountriesApi\bin\Debug\netcoreapp2.1\CountriesApi.runtimeconfig.dev.json
+C:\Users\fgiama\source\repos\CountriesApi\CountriesApi\bin\Debug\netcoreapp2.1\CountriesApi.dll
+C:\Users\fgiama\source\repos\CountriesApi\CountriesApi\bin\Debug\netcoreapp2.1\CountriesApi.pdb
+C:\Users\fgiama\source\repos\CountriesApi\CountriesApi\obj\Debug\netcoreapp2.1\CountriesApi.csprojAssemblyReference.cache
+C:\Users\fgiama\source\repos\CountriesApi\CountriesApi\obj\Debug\netcoreapp2.1\CountriesApi.csproj.CoreCompileInputs.cache
+C:\Users\fgiama\source\repos\CountriesApi\CountriesApi\obj\Debug\netcoreapp2.1\CountriesApi.RazorAssemblyInfo.cache
+C:\Users\fgiama\source\repos\CountriesApi\CountriesApi\obj\Debug\netcoreapp2.1\CountriesApi.RazorAssemblyInfo.cs
+C:\Users\fgiama\source\repos\CountriesApi\CountriesApi\obj\Debug\netcoreapp2.1\CountriesApi.AssemblyInfoInputs.cache
+C:\Users\fgiama\source\repos\CountriesApi\CountriesApi\obj\Debug\netcoreapp2.1\CountriesApi.AssemblyInfo.cs
+C:\Users\fgiama\source\repos\CountriesApi\CountriesApi\obj\Debug\netcoreapp2.1\CountriesApi.RazorTargetAssemblyInfo.cache
+C:\Users\fgiama\source\repos\CountriesApi\CountriesApi\obj\Debug\netcoreapp2.1\CountriesApi.dll
+C:\Users\fgiama\source\repos\CountriesApi\CountriesApi\obj\Debug\netcoreapp2.1\CountriesApi.pdb
